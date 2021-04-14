@@ -8,7 +8,7 @@ frequently used Keywords :
 
 var, let and const.
 
-most Data type : 
+Primitive Data type : 
 1. String
 2. Integer
 3. Undefined
