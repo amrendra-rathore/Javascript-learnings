@@ -43,6 +43,7 @@ Functions 101
 - userRoleFunction.js
 - scopeChaining.js
 - thisKeyword.js -> Light intro about This Keyword
+- This.js -> This keyword implementation
 
 Array 101
 - 01 Array.js
