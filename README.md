@@ -59,3 +59,21 @@ Objects and Loops 101
 - 05 foreachLoop.js
 - 06 forOfLoop.js
 - 07 forInLoop.js
+- This.js
+
+DOM 101
+-Contains 3 files: index.html, style.css and scripts.js -> DOM Manipulation
+
+Pre Advanced 101
+- 01 objects.js
+- 02 closure.js
+- 03 thisBinding.js
+- 04 templateLiterals.js
+- 05 maps.js
+- 06 spreads.js
+- 07 classjs.js
+- 08 classObjects.js
+- 09 async.js
+ 
+- Projs
+  - Contains 3 files: index.html, style.css and scripts.js -> Generating Elements and Text node in DOM.
