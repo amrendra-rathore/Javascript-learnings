@@ -73,7 +73,9 @@ Pre Advanced 101
 - 06 spreads.js
 - 07 classjs.js
 - 08 classObjects.js
-- 09 async.js
+- 09 eventLoop.js
+- 10 promise.js
+- 11 API.js
  
 - Projs
   - Contains 3 files: index.html, style.css and scripts.js -> Generating Elements and Text node in DOM.
